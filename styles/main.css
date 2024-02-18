@@ -1,0 +1,219 @@
+.rwf_devvf-logo {
+    border-radius: 100%;
+    image-rendering: pixelated;
+    height: 200px;
+    width: 200px;
+}
+
+@media (max-width: 700px) {
+    .rwf_devvf-logo {
+        border-radius: 100%;
+        image-rendering: pixelated;
+        height: 120px;
+        width: 120px;
+    }
+}
+
+.rwf_vertical-flex {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    width: 100vw;
+    text-align: center;
+}
+
+.rwf_jpzkdmj {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.rwf_jpzkdmj div {
+    max-width: 635px;
+    width: 92vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.rwf_space-32px {
+    height: 32px;
+    width: 100vw;
+}
+
+.btn-primary-shadow {
+    box-shadow: 0 4px 14px 0 rgba(0, 118, 255, .39);
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #0d6efd;
+    --bs-btn-border-color: #0d6efd;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #0b5ed7;
+    --bs-btn-hover-border-color: #0a58ca;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #0a58ca;
+    --bs-btn-active-border-color: #0a53be;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #0d6efd;
+    --bs-btn-disabled-border-color: #0d6efd;
+}
+
+.rwf_yuvdybk {
+    width: 100%;
+    display: flex;
+    flex-direction: row !important;
+}
+
+@media (max-width: 700px) {
+    .rwf_yuvdybk {
+        width: 100%;
+        display: flex;
+        flex-direction: column !important;
+    }
+}
+
+.card {
+    margin: 5px;
+    border-radius: 1rem;
+}
+
+.btn {
+    border-radius: 0.7rem;
+}
+
+#rwf_devvf-logo-1 {
+    border-radius: 100%;
+    image-rendering: pixelated;
+    height: 120px;
+    width: 120px;
+}
+
+.rwf_back-btn {
+    background-color: transparent !important;
+    border-color: transparent !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    color: rgb(79, 79, 79);
+}
+
+.rwf_back-btn:hover {
+    background-color: transparent !important;
+    border-color: transparent !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    color: rgb(135, 135, 135);
+}
+
+
+.rwf_back-btn-div {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    padding: 18px;
+}
+
+.rwf_mobile-app-frame-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.rwf_flex {
+    display: flex !important;
+    flex-direction: row !important
+}
+
+.rwf_mobile-app-frame-box {
+    width: 100vw;
+    height: 100vh;
+    max-width: 320px;
+    max-height: 600px;
+    margin: 0 !important;
+    padding: 0 !important;
+    border-radius: 15px;
+    border: 0 !important;;
+}
+
+@media (max-width: 320px) {
+    .rwf_mobile-app-frame-box {
+        background-color: white !important;
+        width: 100vw;
+        height: 100vh;
+        max-width: 320px;
+        max-height: 600px;
+        margin: 0 !important;
+        padding: 0 !important;
+        border-radius: 0 !important;
+        outline:  0 !important;
+        border: 0!important;
+    }
+}
+
+iframe {
+    border: 0 !important;
+}
+
+body {
+    border: 0 !important;
+}
+
+html {
+    border: 0 !important;
+}
+
+.rwf_background-image {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+
+.rwf_flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.rwf_83696 {
+    position: fixed;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 8px;
+}
+
+.rwf_83696 p {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    z-index: 1;
+    padding: 2px;
+}
+
+.rwf_back-btn-div-2 {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 5px;
+}
+
+.rwf_menu-card-1 {
+    position: relative;
+    padding-bottom: 50px;
+}
+
+.rwf_menu-card-1 .btn {
+    position: absolute;
+    bottom: 15px;
+}
