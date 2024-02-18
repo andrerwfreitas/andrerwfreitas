@@ -82,14 +82,22 @@
     background-repeat: no-repeat;
 }
 
+#rwf_windows10-size-error {
+    display: none;
+}
+
 @media (max-width: 600px) {
-    #rwf_os-9783 {
+    #rwf_9783 {
         display: none;
     }
-    #rwf_os-size-error {
+    #rwf_windows10-size-error {
         display: flex !important;
-        align-items: center !;
+        align-items: center;
         justify-content: center;
+        width: 100vw;
+        height: 100vh;
+        text-align: center;
+        padding: 20px;
     }
 }
 

@@ -5,6 +5,7 @@ export default () =>
     <>
         <Head>
             <link rel="icon" type="image/x-icon" href="/images/logo-dev.png" />
+            <title>Jaela do MacOS - André Freitas</title>
         </Head>
         <Watermark />
         <div className="rwf_flex-center" style={{backgroundColor: '#97b9cf'}}>

@@ -5,8 +5,12 @@ export default () =>
     <>
         <Head>
             <link rel="icon" type="image/x-icon" href="/images/logo-dev.png" />
+            <title>Code draw - André Freitas</title>
         </Head>
         <Watermark />
+        <section className="rwf_flex-center" style={{ width: '100vw', height: '200px', backgroundColor: '#6dd183', textAlign: 'center', color: 'white', padding: '20px'}}>
+            <h2>Todos os desenhos abaixo s&atilde;o feitos com componentes HTML, n&atilde;o s&atilde;o imagens nem vetores.</h2>
+        </section>
         <section className="rwf_flex-center" style={{ width: '100vw', height: '100vh', backgroundColor: '#78a4eb' }}>
             <div id="rwf_draw-frame-main">
                 <div id="rwf_draw-frame-content-main">

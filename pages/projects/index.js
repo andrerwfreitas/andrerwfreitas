@@ -4,7 +4,7 @@ export default () =>
     <>
         <Head>
             <title>
-                Dev VF
+                André Freitas
             </title>
             <meta http-equiv="refresh" content="0; URL='https://bento.me/andrefreitas'" />
         </Head>
