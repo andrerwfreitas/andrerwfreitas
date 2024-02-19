@@ -13,5 +13,5 @@
     
 ### Skills de developer:
     
-<img src="https://skillicons.dev/icons?i=html,css,md,next,react,bootstrap,nodejs,git,github,figma,vscode,visualstudio,aws,vercel,stackoverflow" />
+<img src="https://skillicons.dev/icons?i=html,css,md,next,react,bootstrap,nodejs,git,github,figma,vscode,visualstudio,aws,vercel,stackoverflow&perline=15" />
 </div>
