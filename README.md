@@ -15,9 +15,3 @@
     
 <img src="https://skillicons.dev/icons?i=html,css,md,next,react,bootstrap,nodejs,git,github,figma,vscode,visualstudio,aws,vercel,stackoverflow&perline=15" />
 </div>
-
-![Snake animation](https://github.com/andrerwfreitas/andrerwfreitas/blob/output/github-contribution-grid-snake.svg)
-
-
-
-[![Snake animation](https://github-readme-stats.vercel.app/api/pin/?username=andrerwfreitas&repo=andrerwfreitas&theme=react)](https://github.com/andrerwfreitas)
