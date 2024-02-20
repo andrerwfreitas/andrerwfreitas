@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+o+André!;Adoro+programação" >
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+André!;I+love+coding" >
 </div>
 
-# Sobre mim
+# About me
 <div align="center">
 <div style="display: flex;">
     <a href="#">
@@ -11,7 +11,7 @@
     </a>
 </div>
     
-### Skills de developer:
+### Developer skills:
     
 <img src="https://skillicons.dev/icons?i=html,css,md,next,react,bootstrap,nodejs,git,github,figma,vscode,visualstudio,replit,aws,vercel,stackoverflow&perline=14" />
 </div>
