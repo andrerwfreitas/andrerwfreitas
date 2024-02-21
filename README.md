@@ -11,7 +11,7 @@
     </a>
 </div>
     
-### Developer skills:
+<h3>Developer skills:</h3>
     
 <img src="https://skillicons.dev/icons?i=html,css,md,next,react,bootstrap,nodejs,git,github,figma,vscode,visualstudio,replit,aws,vercel,stackoverflow&perline=14" />
 </div>
