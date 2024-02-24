@@ -1,4 +1,4 @@
-ed export default () =>
+export default () =>
     <>
         <div style={{ position: 'fixed', top: 0, left: 0, padding: '15px', width: '100vw', display: 'flex' }}>
             <div style={{ width: '50%', justifyContent: 'left', justifyItems: 'left' }}>
