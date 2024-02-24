@@ -9,7 +9,7 @@ export default () =>
         </Head>
         <Watermark />
         <section className="rwf_flex-center" style={{ width: '100vw', height: '200px', backgroundColor: '#6dd183', textAlign: 'center', color: 'white', padding: '20px'}}>
-            <h2>Todos os desenhos abaixo s&atilde;o feitos com componentes HTML, n&atilde;o s&atilde;o imagens nem vetores.</h2>
+            <h2>All drawings below are made with HTML components, they are not images or vectors.</h2>
         </section>
         <section className="rwf_flex-center" style={{ width: '100vw', height: '100vh', backgroundColor: '#78a4eb' }}>
             <div id="rwf_draw-frame-main">
