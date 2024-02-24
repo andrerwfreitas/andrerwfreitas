@@ -8,7 +8,7 @@ export default () =>
             <title>MacOS window - André Freitas</title>
         </Head>
         <Watermark />
-        <div className="rwf_flex-center rwf_width-100vw rwf_height-100vh" style={{backgroundColor: '#97b9cf'}}>
+        <div className="rwf_flex-center rwf_width-100vw rwf_height-100vh" style={{backgroundColor: '#97b9cf', width: '100vw', height:'100vh'}}>
             <div className="rwf_window-main shadow-lg" style={{ width: '90vw', maxWidth: '350px', height: '200px', margin: '10px' }}>
                 <div className="rwf_window-controls-container">
                     <div className="rwf_window-controls-box">
