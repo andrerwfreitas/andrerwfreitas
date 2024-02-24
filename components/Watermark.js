@@ -1,4 +1,4 @@
-export default () =>
+ed export default () =>
     <>
         <div style={{ position: 'fixed', top: 0, left: 0, padding: '15px', width: '100vw', display: 'flex' }}>
             <div style={{ width: '50%', justifyContent: 'left', justifyItems: 'left' }}>
@@ -9,7 +9,7 @@ export default () =>
                 </a>
             </div>
             <div style={{ width: '50%', justifyContent: 'right', justifyItems: 'right' }}>
-                <p style={{ textAlign: 'right', color: 'black' }}>Criado por <a href="https://andrefreitas.rwfprojects.com" target="_blank" style={{ color: 'black' }}>André Freitas</a></p>
+                <p style={{ textAlign: 'right', color: 'black' }}>Created by&nbsp;<a href="https://andrefreitas.rwfprojects.com" target="_blank" style={{ color: 'black' }}>André Freitas</a></p>
             </div>
 
 
