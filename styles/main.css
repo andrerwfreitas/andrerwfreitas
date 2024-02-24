@@ -215,3 +215,11 @@ html {
     position: absolute;
     bottom: 15px;
 }
+
+.rwf_width-100vw {
+    width: 100vw;
+}
+
+.rwf_height-100vh {
+    height: 100vh;
+}
