@@ -17,4 +17,4 @@
 </div>
 
 
-### [Dev studies - projects I program to gain programming experience](https://github.com/andrerwfreitas/andrerwfreitas/blob/main/dev-studies.md)
+### [Dev studies - Projects I program to gain programming experience](https://github.com/andrerwfreitas/andrerwfreitas/blob/main/dev-studies.md)
