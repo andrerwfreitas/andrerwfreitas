@@ -15,3 +15,6 @@
     
 <img src="https://skillicons.dev/icons?i=html,css,md,next,react,bootstrap,nodejs,git,github,bitbucket,figma,vscode,visualstudio,replit,aws,vercel,stackoverflow&perline=14" />
 </div>
+
+
+### [Dev studies - projects I program to gain programming experience](https://github.com/andrerwfreitas/andrerwfreitas/blob/main/dev-studies.md)
