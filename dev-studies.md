@@ -1,5 +1,5 @@
 # Dev studies
-  **projects I program to gain programming experience**
+  **projects I code to gain programming experience**
 | Name | Code | Link |
 |--|--|--|
 | MacOS Window | [Code](https://github.com/andrerwfreitas/andrerwfreitas/blob/main/pages/projects/macos-window.js) | [Open](https://arwf.rwfprojects.com/projects/macos-window)
